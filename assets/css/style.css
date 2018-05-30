@@ -1,0 +1,54 @@
+
+.amarillo {
+  margin: 1%;
+  background-color: yellow;
+  height: 3em;
+  width: 3em;
+
+}
+
+.verde {
+  background-color: rgb(131, 255, 0);
+  margin: 1%;
+  height: 3em;
+  width: 7.5em;
+
+}
+
+.verdeAgua {
+  background-color: rgb(130, 238, 197);
+  margin: 1%;
+  height: 3em;
+  width: 12em;
+
+}
+
+.azul {
+  background-color: rgb(0, 188, 173);
+  margin: 1%;
+  width: 16.5em;
+  height: 3em;
+}
+
+.morado {
+  background-color: rgb(175, 0, 212);
+  margin: 1%;
+  width: 25.5em;
+  height: 3em;
+}
+
+.fucsia {
+  background-color: rgb(228, 0, 168);
+  margin: 1%;
+  width: 70%;
+  height: 3em;
+}
+
+
+
+
+
+
+
+
+
